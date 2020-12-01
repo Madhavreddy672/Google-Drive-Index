@@ -1,5 +1,5 @@
 /**
-* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
+* A Script Redesigned by Team Thunders from GOIndex at https://github.com/Madhavreddy672/Google-Drive-Index
 */
 const authConfig = {
 	"siteName": "Thunder Team Index", // Website name
