@@ -2,7 +2,7 @@
 * A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
 */
 const authConfig = {
-	"siteName": "Bhadoo Drive Index", // Website name
+	"siteName": "Thunder Team Index", // Website name
 	"client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
 	"client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
 	"refresh_token": "", // Authorize token
@@ -21,7 +21,7 @@ const authConfig = {
 	 */
 	"roots": [{
 		"id": "",
-		"name": "Cloud Zero",
+		"name": "Thunder Team",
 		"user": "",
 		"pass": "",
 		"protect_file_link": false
@@ -56,14 +56,14 @@ const authConfig = {
  */
 const uiConfig = {
 	"theme": "bhadoo_bootstrap", // Change doesn't works
-	"dark_mode": true, // switch between light or dark themes
+	"dark_mode": false, // switch between light or dark themes
 	"version": "2.0.1", // don't touch this one. get latest code using generator at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
-	"logo_image": false, // true if you're using image link in next option.
-	"logo_link_name": "Bhadoo Drive Index", // if logo is true then link otherwise just text for name
-	"contact_link": "https://t.telegram.ind.in/BhadooCloud", // Link to Contact Button on Menu
-	"copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
-	"company_name": "Bhadoo Cloud", // Name next to copyright
-	"company_link": "https://t.telegram.ind.in/BhadooCloud", // link of copyright name
+	"logo_image": "https://telegra.ph/file/4f4564cdcfe0ffeb3db16.jpg", // true if you're using image link in next option.
+	"logo_link_name": "Thunder Team Index", // if logo is true then link otherwise just text for name
+	"contact_link": "https://t.me/Thunder_Mirror_Group", // Link to Contact Button on Menu
+	"copyright_year": "2030", // year of copyright, can be anything like 2015 - 2020 or just 2020
+	"company_name": "Team Thunders", // Name next to copyright
+	"company_link": "https://t.me/Thunder_mirror_group", // link of copyright name
 	"credit": true, // Set this to true to give us credit
 };
 
