@@ -64,7 +64,7 @@ const uiConfig = {
 	"copyright_year": "2030", // year of copyright, can be anything like 2015 - 2020 or just 2020
 	"company_name": "Team Thunders", // Name next to copyright
 	"company_link": "https://t.me/Thunder_mirror_group", // link of copyright name
-	"credit": true, // Set this to true to give us credit
+	"credit": false, // Set this to true to give us credit
 };
 
 /**
